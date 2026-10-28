@@ -11,7 +11,7 @@ def validate_conf_string(
     ctx: Context, param: Parameter, boot_configuration: str
 ) -> str:
     """
-    Validate the boot configuration string.
+    Validate the boot conheehefiguration string.
 
     Args:
         ctx (Context): The Click context.
